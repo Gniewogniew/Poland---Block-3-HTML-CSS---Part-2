@@ -1,4 +1,3 @@
-
 body, h1, h2, h3, h4, h5, h6, p, div, ul, li {
 	margin:0;
 	padding:0;
@@ -20,7 +19,6 @@ body {
 	padding-top:20px;
 	padding-bottom:20px;
 }
-
 div.divLine {
 	width:700px;
 	background:#999;
@@ -76,14 +74,12 @@ div.divLine {
 	color:#f63;
 	cursor:default;
 }
-
 #divAbout {
 		width:700px;
 		background:#333;	
 		padding-top:60px;
 		padding-bottom:60px;
 }
-
 #divContent {
 	width:430px;
 	margin:0 auto;
@@ -101,7 +97,6 @@ div.divLine {
 	-moz-box-shadow:10px 10px 4px #000;
 	-webkit-box-shadow:10px 10px 4px #000;
 }
-
 #divContent img {
 	float:left; 
 	border:1px solid #000;
@@ -116,7 +111,6 @@ div.divLine {
 	-moz-border-radius:15px;
 	-webkit-border-radius:15px;
 }
-
 #divContent h5{
 	color:#FFF;
 	padding-top:0.8em;
