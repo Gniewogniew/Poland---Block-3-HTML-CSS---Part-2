@@ -13,7 +13,7 @@ body {
 } 
 #divHeader {
 	width:700px;
-	background: url(img/header-bg.jpg);
+	background: url(../img/header-bg.jpg);
 	text-align:center;
 }
 #divHeader img {
