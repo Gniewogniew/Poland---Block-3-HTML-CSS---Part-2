@@ -113,8 +113,8 @@ body {
 	background:-webkit-gradient(linear, left top, left bottom, from(#000), to(#333));
 	
 	border-radius:15px;
-	-moz-border-radius;15px;
-	-webkit-border-radius;15px;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
 }
 
 #divContent h5{
