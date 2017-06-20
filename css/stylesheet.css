@@ -10,7 +10,7 @@ body {
 	width:700px;
 	margin:20px auto;
 } 
-#divHeader {
+Header {
 	width:700px;
 	background: url(../img/header-bg.jpg);
 	text-align:center;
@@ -19,7 +19,7 @@ body {
 	padding-top:20px;
 	padding-bottom:20px;
 }
-div.divLine {
+div.Line {
 	width:700px;
 	background:#999;
 	height:1px;
