@@ -127,5 +127,7 @@ Footer {
 	height:20px;
 	width:700px;
 	border-bottom:1px solid #333;
-	font-color:#ff4d4d;
+	font-size:15px;
+  text-align: right;
+  color: #ff4d4d;
 }
