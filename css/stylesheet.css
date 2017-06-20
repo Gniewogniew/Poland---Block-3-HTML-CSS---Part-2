@@ -19,10 +19,7 @@ Header {
 	padding-top:20px;
 	padding-bottom:20px;
 }
-div.Line {
-	width:700px;
-	background:#999;
-	height:2px;
+
 	
 }
 #Links {
@@ -34,6 +31,8 @@ div.Line {
 	background:#666;
 	height:36px;
 	margin:0 auto;
+	border-style: solid;
+   	border-width:0px 3px 3px 0px;
 }
 #Nav ul {
 	list-style-type:none;
