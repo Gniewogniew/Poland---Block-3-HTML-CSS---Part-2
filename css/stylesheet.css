@@ -20,13 +20,10 @@ Header {
 	padding-bottom:20px;
 }
 
-	
-}
 #Links {
 	width:700px;
 	background:#666;
-	border-style: solid;
-   	border-width:0px 13px 13px 0px;
+	border:5px;
 }
 #Nav {
 	width:384px;
