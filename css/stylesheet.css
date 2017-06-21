@@ -21,9 +21,10 @@ Header {
 }
 
 #Links {
-	width:696px;
+	width:700px;
 	background:#666;
-	border:2px solid #ff4d4d;
+	border-bottom:2px solid #ff4d4d;
+	border-top:2px solid #ff4d4d;
 }
 #Nav {
 	width:384px;
